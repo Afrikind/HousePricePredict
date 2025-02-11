@@ -12,7 +12,7 @@ This project uses **machine learning regression models** to predict housing pric
 ## 📌 Installation & Usage
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/housing-price-prediction.git
+   git clone https://github.com/Afrikind/housing-price-prediction.git
    ```
 2. Install dependencies:
    ```bash
